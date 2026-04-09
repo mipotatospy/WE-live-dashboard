@@ -1,0 +1,30 @@
+.comparison-table-wrapper {
+    overflow-x: auto;
+    background: white;
+    border-radius: 16px;
+    border: 1px solid #e5e7eb;
+  }
+  
+  .comparison-table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 900px;
+  }
+  
+  .comparison-table th,
+  .comparison-table td {
+    padding: 14px 16px;
+    text-align: left;
+    border-bottom: 1px solid #e5e7eb;
+  }
+  
+  .comparison-table thead th {
+    background: #f8fafc;
+    color: #334155;
+    font-size: 14px;
+  }
+  
+  .comparison-table tbody td {
+    color: #0f172a;
+    font-size: 14px;
+  }

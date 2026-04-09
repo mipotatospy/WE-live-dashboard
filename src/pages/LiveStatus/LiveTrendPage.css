@@ -1,0 +1,9 @@
+.live-trend-page {
+    padding: 20px;
+  }
+  
+  .chart-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }

@@ -1,0 +1,9 @@
+.attendance-status-page {
+    padding: 20px;
+  }
+  
+  .pie-chart-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
